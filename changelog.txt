@@ -1,7 +1,4 @@
 Facebook Reset (ADB) Error Fixing !
-
-> We can't send SMS...
-> We can't send SMS at the moment
-> SMS will be available again tomorrow
+Facebook New Crate Problem Fixed.
 
 Thanks for Stay with us ♡
