@@ -4,7 +4,4 @@ Facebook Reset (ADB) Error Fixing !
 > We can't send SMS at the moment
 > SMS will be available again tomorrow
 
-The Error Show on Console is: 
-[-] <Number> | SMS Blocked by Facebook
-
 Thanks for Stay with us ♡
