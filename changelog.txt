@@ -1,4 +1,10 @@
-Hello Brother !! 
-The Old Version was Deactivated and Released the New v2.1.4
+Facebook Reset (ADB) Error Fixing !
 
-Thanks for Updating 
+> We can't send SMS...
+> We can't send SMS at the moment
+> SMS will be available again tomorrow
+
+The Error Show on Console is: 
+[-] <Number> | SMS Blocked by Facebook
+
+Thanks for Stay with us ♡
